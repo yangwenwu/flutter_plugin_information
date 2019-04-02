@@ -1,9 +1,9 @@
 name: flutter_plugin_information
 description: A new Flutter plugin.
-version: 0.0.1
+version: 0.0.2
 author: Jack yang<yangwenwujack@gmail.com>
 homepage: https://github.com/yangwenwu/flutter_plugin_information
-  https://pub.dartlang.org/packages/flutter_plugin_information
+ #https://pub.dartlang.org/packages/flutter_plugin_information
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
